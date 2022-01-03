@@ -1,6 +1,22 @@
-# Project_barobarot
+# 📆Project_barobarot
+## 🥈 2020. 11. 03. - 롯데 해커톤 **은상** 수상작  
 
-🏆 LIKELION&amp;LOTTE 8th - Hackathon Project BaroBarot
+🏆 LIKELION&amp;LOTTE 8th - Hackathon Project
+![image](https://user-images.githubusercontent.com/60251579/98437952-e425f280-2129-11eb-83ba-ef88e1f12511.png)
+
+## 🖥 DEMO
+
+<img src="https://github.com/minsgy/Project_barobarot/blob/master/BaroBarot_DEMO/Main.gif" width="600px" />
+<img src="https://github.com/minsgy/Project_barobarot/blob/master/BaroBarot_DEMO/Login.gif" width="600px" />
+<img src="https://github.com/minsgy/Project_barobarot/blob/master/BaroBarot_DEMO/Detail.gif" width="600px" />
+<img src="https://github.com/minsgy/Project_barobarot/blob/master/BaroBarot_DEMO/Engineer.gif" width="600px" />
+
+
+## ⚡️ 서비스 소개
+- 🌈 바로바롯 서비스란?
+- 롯데 하이마트몰의 기존 배송 서비스를 개선하여 구성한 아이디어.
+- 설치와 배송 서비스를 스케줄과 시간을 선택 후, 스케줄이 되는 설치/배송기사를 직접 리뷰를 보고 선택하는 언택트 서비스
+
 
 ## 👨‍👨‍👨‍👧‍👧Team member
 
